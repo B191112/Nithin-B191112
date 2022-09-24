@@ -1,0 +1,65 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\title{\textbf{\Huge{\color{red}{RESUME}}}}
+\author{\color{blue}{Nithin , B191112}}
+\begin{document}
+
+\maketitle
+
+\section*{Personal details :}
+\begin{itemize}
+ \item{\Large{Name :} {\color{green}Nithin}}
+ \item{\Large{Father's Name : } {\textbf{Venugopal}}}
+\end{itemize}
+
+\begin{figure}[h]
+ \centering
+ \includegraphics[width=300pt]{space.jpg}
+\end{figure}
+
+\section*{My Bio :}
+\textit{\Large{Nithin is a very intellegent person}}
+
+\section*{Ganesh :}
+\textit{\textbf{\Large{\color{blue}{ganesh is a very intelligent person}}}}
+\newpage
+\section*{\color{violet}{Marks Sheet :}}
+\begin{table}[h]
+ \centering
+\begin{tabular}{|c|c|c|c|}
+\hline
+\textbf{sub} & \textbf{nithin} & \textbf{swapnith} & \textbf{shivamani} \\
+\hline
+\textbf{maths} & 100 & 22 & 35 \\
+\hline
+\textbf{phy} & 99.9 & 33 & 45 \\
+\hline
+\textbf{BEE} & 96 & 0 & 9 \\
+\hline
+\end{tabular}
+
+\end{table}
+
+\begin{enumerate}
+ \item nithin
+ \item vamsk
+
+\end{enumerate}
+
+\begin{equation}
+\sqrt{a}=b^3
+\end{equation}
+
+\begin{equation}
+ a=\epsilon
+\end{equation}
+
+
+
+
+\end{document}
